@@ -75,6 +75,44 @@ nav{
  .image{
    max-width: 1440px;
    width: 100%;
-   max-height: 700px;
    padding-bottom: 45px;
+ }
+ #team{
+   max-width: 1440px;
+   display: flex;
+   gap:73px;
+   align-items: center;
+   justify-content: center;
+   margin: 0 auto;
+ }
+ .team-group{
+   margin-top: 130px;
+   display: grid;
+   grid-template-columns: repeat(2,1fr);
+   gap: 24px;
+ }
+ .text {
+   /*border: 1px solid rebeccapurple;*/
+   max-width: 537px;
+
+ }
+ .text h3{
+   font-size: 45px;
+   font-weight: mixed;
+ }
+ .a{
+   color: #727272;
+ }
+ .b{
+   color: #131313;
+ }
+ .c{
+   color: #FF900E;
+ }
+ .text p{
+   margin-top: 24px;
+   font-size: 16px;
+   line-height: 26px;
+   color: #727272;
+   margin-bottom: 32px;
  }
