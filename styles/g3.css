@@ -194,3 +194,69 @@ nav{
    font-size: 46px;
    font-weight: 700px;
  }
+ #fact{
+  max-width: 1440px;
+  margin: 0 auto;
+ }
+ .fact-container{
+  max-width: 550px;
+ }
+ .fact-heading h2{
+  max-width: 258px;
+  font-size: 45px;
+  font-weight: 700px;
+  margin: 130px 0 24px 0px;
+ }
+ .fact-heading p{
+  max-width: 542px;
+  font-size: 16px;
+  line-height: 26px;
+  color: #727272; 
+ }
+ .fact-cards{
+  display: flex;
+  justify-content: space-between;
+ /* gap: 124.17px;*/
+  /*border: 1px solid red ;*/
+ }
+ .fact-card-container{
+  max-width: 242px;
+  border: 1px solid #FF900E;
+  margin-top: 101px;
+  text-align: center;
+  padding: 46px 0;
+ }
+ .number{
+  font-size: 45px;
+  font-weight: 600px;
+  color: #424242;
+ }
+ .card-text{
+  font-size: 20px;
+  font-weight: 600px;
+  color: #727272;
+  padding: 0 36px 60px 36px;
+ }
+ .card-text-1{
+  font-size: 20px;
+  font-weight: 600px;
+  color: #727272;
+  padding: 0 58px 57px 58px;
+ }
+
+ .fact-card-container-1{
+    max-width: 242px;
+    border: 1px solid #FF900E;
+    margin-top: 101px;
+    margin-left: 51px;
+    text-align: center;
+    padding: 46px 0;
+   }
+   .fact-card-container-2{
+    max-width: 242px;
+    border: 1px solid #FF900E;
+    margin-top: 101px;
+   margin-right: 51px;
+    text-align: center;
+    padding: 46px 0;
+   }
