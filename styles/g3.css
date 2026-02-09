@@ -225,6 +225,7 @@ nav{
   margin-top: 101px;
   text-align: center;
   padding: 46px 0;
+  border-radius: 5%;
  }
  .number{
   font-size: 45px;
@@ -251,6 +252,7 @@ nav{
     margin-left: 51px;
     text-align: center;
     padding: 46px 0;
+    border-radius: 5%;
    }
    .fact-card-container-2{
     max-width: 242px;
@@ -259,4 +261,5 @@ nav{
    margin-right: 51px;
     text-align: center;
     padding: 46px 0;
+    border-radius: 5%g;
    }
