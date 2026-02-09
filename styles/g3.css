@@ -113,9 +113,10 @@ nav{
  .text p{
    margin-top: 24px;
    font-size: 16px;
-   line-height: 26px;
-   color: #727272;
-   margin-bottom: 32px;
+   font-size: 45px;
+   font-weight: 700px;
+   color: #131313;
+   margin:30px 0;
  }
  #features{
    max-width: 1440px;
@@ -135,7 +136,7 @@ nav{
  .border{
    border-left: 5px solid #FF900E;
    height: 106px;
-   margin-right: 21px;
+   padding-left: 21px;
  }
  .features-heading h2{
    max-width: 468px;
@@ -143,6 +144,8 @@ nav{
    font-weight: 700px;
    color: #131313;
    margin:30px 0;
+   
+   
  }
  .features-heading p{
    
